@@ -69,7 +69,8 @@ social:
       library: simple-icons
       symbol: twitter
   - title: GitHub
-    url: https://github.com/lowerbarriers/finished-starter
+    url: http://www.byebyesocialmedia.com
+#     url: https://github.com/lowerbarriers/finished-starter
     icon:
       library: simple-icons
       symbol: github

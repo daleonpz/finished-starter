@@ -33,7 +33,7 @@ filament_load_css: "false" # Use the https://www.filamentgroup.com/lab/load-css-
 #content_security_policy: "default-src 'self'; script-src 'self' 'unsafe-inline'"
 
 ## Basic site info
-title: "finished-starter"
+title: "ByeBye Social Media"
 primary_author: "Lower Barriers" # This is shown in the copyright statement in the footer of the site.
 shortname: fin-start
 tagline: "A website, not a project"

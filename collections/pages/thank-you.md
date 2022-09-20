@@ -21,12 +21,12 @@ permalink: /thank-you/
 #schema:
 #  type: "Thing"
 sections:
-  - cta
+#  - cta
 sitemap: false
 #tags: ["three", "four"]
 title: "Thank you!"
 ---
 
-## Plans are in motion!
+## Vielen Dank für Ihre Unterstützung 
 
 We appreciate you taking the time to fill out this internet form! We will be contacting you soon.

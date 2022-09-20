@@ -11,10 +11,9 @@ authors:
 #  utility: 1
 meta:
   description: "We appreciate your form submission!"
-  #  image:
-  #    alt: "Default social image" # It's okay for this to be empty if the image is decorative
-  #    src: required/meta-image--default.jpg
-  robots: "noindex,follow"
+#image:
+#    src: hug.jpg
+robots: "noindex,follow"
 #  title: "Overrides the tab title and social titles"
 permalink: /thank-you/
 #published: true
@@ -29,4 +28,10 @@ title: "Thank you!"
 
 ## Vielen Dank für Ihre Unterstützung 
 
-We appreciate you taking the time to fill out this internet form! We will be contacting you soon.
+
+    {% include atoms/image.html
+      src="hug.jpg"
+      classes=""
+    %}
+
+

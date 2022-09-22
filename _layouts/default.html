@@ -16,6 +16,9 @@ layout: compress
 
     {% comment %}<!-- The rest of the html <head> is in a separate include. This file was getting big. -->{% endcomment %}
     {% include head/head.html %}
+
+    {% if site.google_analytics %} {% include head/google_analytics.html %}{% endif %}
+
   </head>
   <body class="page--{% if page.front %}front{% else %}{{ page.url | slugify }}{% endif %} webp--disabled"
     itemscope itemtype="http://schema.org/{% if page.schema.type %}{{ page.schema.type }}{% else %}{{ site.schema.type }}{% endif %}">
@@ -87,7 +90,6 @@ layout: compress
       {% endfor %}
     {% endif %}
 
-    {% if site.google_analytics %} {% include head/google_analytics.html %}{% endif %}
     {% if site.snipcart.api_key %}{% include head/snipcart.html %}{% endif %}
   </body>
 </html>

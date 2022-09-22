@@ -15,7 +15,7 @@ meta:
 #    src: hug.jpg
 robots: "noindex,follow"
 #  title: "Overrides the tab title and social titles"
-permalink: /thankyou/
+permalink: /thank-you/
 #published: true
 #schema:
 #  type: "Thing"
@@ -23,12 +23,13 @@ sections:
 #  - cta
 sitemap: false
 #tags: ["three", "four"]
-title: "Thank you!"
+title: "thank you!"
 ---
+
 
 <div class="layout--stripe">
     {% include atoms/heading.html
-      children="Wir möchten Ihnen in dieser schweren Zeit unterstützen."
+      children="Vielen Dank für Ihre Unterstützung"
       classes="text-align--center"
       level="2"
     %}
@@ -39,8 +40,6 @@ title: "Thank you!"
 <div class="display--flex layout--row justify-content--center">
 <aside class="display--flex flex-direction--column justify-content--center">
 <p> Wir arbeiten intensiv daran, diese Funktion bald zu bieten.  </p>
-<p> Derzeit muss jedes Social Media Konto einzeln und umständlich per Kontaktformular abgeschaltet werden. Das dauert pro Konto ca. 30 Minuten.  </p> 
-<p> Wir möchten Ihnen, die eine geliebte Person verloren haben, helfen und das Abschalten aller Social Media Konten mit wenigen Klicks und in kurzer Zeit ermöglichen.</p>
 <p> Wir wünschen Ihnen alles Gute. </p>
 <p> Und hier können Sie weitere Informationen zum Abschalten der einzelnen Social Media Konten finden.</p>
 <p align="center">

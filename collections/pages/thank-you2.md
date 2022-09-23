@@ -41,7 +41,7 @@ title: "thank you!"
 <aside class="display--flex flex-direction--column justify-content--center">
 <p> Wir arbeiten intensiv daran, diese Funktion bald bereitzustellen.  </p>
 <p> Wir wünschen Ihnen alles Gute. </p>
-<p> Hier können Sie weitere Informationen zum Abschalten der einzelnen Social Media Konten finden.</p>
+<p> Hier finden Sie weitere Informationen zum Abschalten der einzelnen Social Media Konten.</p>
 <p align="center">
 <a class="button cta" href="https://blog.emmalife.ch/digitaler-nachlass-social-media">Digitaler Nachlass</a>
 </p>

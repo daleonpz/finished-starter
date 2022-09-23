@@ -40,9 +40,11 @@ title: "Thank you!"
 <aside class="display--flex flex-direction--column justify-content--center">
 <p> Wir arbeiten intensiv daran, diese Funktion bald bereitzustellen.  </p>
 <p> Derzeit muss jedes Social Media Konto einzeln und umständlich per Kontaktformular abgeschaltet werden. Das dauert pro Konto ca. 30 Minuten.  </p> 
-<p> Wir möchten Ihnen, die eine geliebte Person verloren haben, helfen und das Abschalten aller Social Media Konten mit wenigen Klicks und in kurzer Zeit ermöglichen.</p>
+<p> 
+Wir möchten Sie, die eine geliebte Person verloren haben, unterstützen und das Abschalten aller Social Media Konten mit wenigen Klicks und in kurzer Zeit ermöglichen.
+</p>
 <p> Wir wünschen Ihnen alles Gute. </p>
-<p> Hier können Sie weitere Informationen zum Abschalten der einzelnen Social Media Konten finden.</p>
+<p> Hier finden Sie weitere Informationen zum Abschalten der einzelnen Social Media Konten.</p>
 <p align="center">
 <a class="button cta" href="https://blog.emmalife.ch/digitaler-nachlass-social-media">Digitaler Nachlass</a>
 </p>
